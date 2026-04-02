@@ -31,7 +31,7 @@ Abaixo constam os resumos das execuções dos comandos de segurança:
 
 ## 3. Evidência de Integração Contínua (CI)
 O pipeline automatizado foi executado com sucesso no GitHub Actions:
-- **Link da Action de Sucesso:** [COLE AQUI O LINK DO SEU GITHUB ACTIONS]
+- **Link da Action de Sucesso:** [LINK DO GITHUB ACTIONS](https://github.com/leomitx10/EPS-Desafio/actions/runs/23879102571/job/69628422373)
 
 ## 4. Declaração de Soberania Técnica (CISSP Domain 8)
 Eu, Leandro de Almeida Oliveira, declaro que auditei manualmente as ferramentas e dependências deste projeto. Confirmo que o código gerado via IA (GitHub Copilot) passou pela minha revisão humana (*Human-in-the-loop*), garantindo que não há vazamento de segredos ou falhas lógicas críticas antes da migração para o ecossistema da PCDF.
